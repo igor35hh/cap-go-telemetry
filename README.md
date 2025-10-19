@@ -256,4 +256,4 @@ make lint
 OTLP Exporters (4-6 weeks) - gRPC, HTTP, Proto formats
 Cloud Exporters (3-4 weeks) - Dynatrace, SAP Cloud Logging, Jaeger
 Auto-Instrumentation (6-8 weeks) - HTTP frameworks, databases, gRPC
-Advanced Metrics (4-6 weeks) - Host metrics, DB pool, queue metrics
+Advanced Metrics (4-6 weeks) - Host metrics, DB pool, queue metrics,
