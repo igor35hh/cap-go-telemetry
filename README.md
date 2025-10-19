@@ -246,10 +246,6 @@ make test
 make lint
 ```
 
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Original [CAP.js telemetry plugin](https://github.com/cap-js/telemetry) for inspiration and feature reference
