@@ -1,2 +1,2 @@
 # telemetry
-telemetry plugin
+telemetry plugin,
